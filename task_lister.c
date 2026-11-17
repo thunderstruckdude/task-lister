@@ -11,7 +11,7 @@
  *   cat /proc/task_lister/tree        → list tasks as parent→child tree
  *   echo R > /proc/task_lister/filter → filter by state (R/S/D/Z/T)
  *
- * Author: OS Project
+ * Author: thunderstruckdude
  * Kernel: 5.x / 6.x / 7.x (Arch Linux)
  */
 
